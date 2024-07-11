@@ -1,3 +1,67 @@
+# EN
+
+Substrate enables you to create customized blockchains by crafting and integrating various modules. It comes with everything needed to build a blockchain. Using Substrate modules allows for easy creation of desired content or customization of your own logic, making blockchain development faster, easier, and more secure than ever before.
+
+It features:
+
+- **Chain upgrades without hard forks**: Upgrading your blockchain has never been easier. With Substrate, upgrading chain logic is as simple as submitting a transaction.
+
+- **Cross-language support with WebAssembly**: WebAssembly is the next web standard. You can write your blockchain logic in any language, including C/C++, C#, Typescript, and Rust, and compile it into WebAssembly format.
+
+- **Direct compatibility with the Polkadot network**: Your Substrate blockchain is compatible with the Polkadot network, allowing it to easily become a parachain and communicate with other chains.
+
+- **Future-proof blockchain**: Prepared for the innovations of Web 3.0 with features like forkless upgrades, lightweight clients, off-chain workers, and more.
+
+## Development Resources
+
+### For Substrate / Polkadot beginners:
+
+- [Official Substrate Documentation](https://docs.substrate.io)
+
+This is the most comprehensive resource for Substrate technical knowledge. It covers topics from conceptual introductions to concrete code implementations, making it the best place for beginners to understand Substrate.
+
+- [Substrate Tutorials](https://docs.substrate.io/tutorials/)
+
+Step-by-step tutorials teach you how to use Substrate to create your own dApps and build frontends that interact with them.
+
+- [Polkadot Official Documentation](https://wiki.polkadot.network/)
+
+This explains some of the behaviors and principles behind the Polkadot network.
+
+- [Polkadot-JS Documentation](https://polkadot.js.org/docs/)
+
+Explains how to use the Polkadot-JS API to build clients that interact with Substrate and subscribe to on-chain information.
+
+- [Substrate Blockchain (Parity Official) Frontend/Wallet](https://polkadot.js.org/apps/#/explorer)
+
+The most detailed frontend and wallet for the Substrate blockchain.
+
+- [Subscan](https://www.subscan.io/)
+
+A comprehensive Substrate blockchain explorer.
+
+- [Substrate Playground](https://docs.substrate.io/playground/)
+
+An online editor for compiling Substrate without the need to install a development environment.
+
+### For experienced Substrate developers:
+
+- [Substrate Developer's Guide](https://docs.substrate.io/reference/how-to-guides/)
+
+Documentation on how to achieve specific functionalities on Substrate.
+
+- [Substrate Runtime API Documentation](https://docs.substrate.io/reference/runtime-apis/)
+
+Documentation on the Substrate runtime API.
+
+## Community
+
+- [List of Substrate community projects](https://github.com/substrate-developer-hub/awesome-substrate)
+
+- [Substrate stack exchange](https://substrate.stackexchange.com/)
+
+# CN
+
 Substrate 让您可以通过制作及整合不同的模块来创建定制化的区块链。它附带了构建区块链所需的一切。使用Substrate 模塊能轻松创建所需的内容，或制作自己的自定义逻辑，讓构建区块链比以往更快，更轻松，更安全。
 
 它具有：
@@ -10,9 +74,9 @@ Substrate 让您可以通过制作及整合不同的模块来创建定制化的�
 
 - **面向未来的区块链**： 通过無分叉链上升级，轻量级的客户端 和 链下工作机 等功能，您的 Substrate 区块链已为未来 Web 3.0 带来的革新做好了准备。
 
-# 开发资源
+## 开发资源
 
-## 给 Substrate / Polkadot 前期初学者：
+### 给 Substrate / Polkadot 前期初学者：
 
 - [官方 Substrate 文档](https://docs.substrate.io)
 
@@ -20,7 +84,7 @@ Substrate 让您可以通过制作及整合不同的模块来创建定制化的�
 
 - [Substrate 教程](https://docs.substrate.io/tutorials/)
 
-  手把手的教程 教你如何使用 Substrate 制作出你自己的 dApp 及建造前端与之互动。
+  手把手的教程 教你如何使用 Substrate 制作出你自己的 DApp 及建造前端与之互动。
 
 - [Polkadot 官方文档](https://wiki.polkadot.network/)
 
@@ -42,7 +106,7 @@ Substrate 让您可以通过制作及整合不同的模块来创建定制化的�
 
   不用安装开发环境，直接在云端编译 Substrate 的线上编辑器
 
-## 给有经验的 Substrate 开发者：
+### 给有经验的 Substrate 开发者：
 
 - [Substrate 开发指引](https://docs.substrate.io/reference/how-to-guides/)
 
@@ -52,7 +116,7 @@ Substrate 让您可以通过制作及整合不同的模块来创建定制化的�
 
   Substrate runtime API 文档
 
-# 社区
+## 社区
 
 - [Substrate 社区项目一覧表](https://github.com/substrate-developer-hub/awesome-substrate)
 
